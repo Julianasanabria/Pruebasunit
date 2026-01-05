@@ -127,3 +127,4 @@ C:\Users\karen\Downloads\CapacitacionPruebasBlazor\PruebasBlazor\bin\Debug\net8.
 C:\Users\karen\Downloads\CapacitacionPruebasBlazor\PruebasBlazor\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\karen\Downloads\CapacitacionPruebasBlazor\PruebasBlazor\bin\Debug\net8.0\Bunit.Core.dll
 C:\Users\karen\Downloads\CapacitacionPruebasBlazor\PruebasBlazor\bin\Debug\net8.0\Bunit.Web.dll
+C:\Users\karen\Downloads\CapacitacionPruebasBlazor\PruebasBlazor\obj\Debug\net8.0\PruebasBlazor.sourcelink.json
